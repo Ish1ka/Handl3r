@@ -28,7 +28,7 @@ Because I was bored and wanted to 3d model like Tony Stark
 ## Setup
 
 ```bash
-git clone https://github.com/yourname/HandControl.git
-cd HandControl
+git clone https://github.com/yourname/Handl3r.git
+cd Handl3r
 pip install -r requirements.txt
 python main.py
